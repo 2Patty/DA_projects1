@@ -1,4 +1,7 @@
 Telecommunication Customer Churn Analysis and Prediction
+
+
+
 This project aims to build a machine-learning model to predict customer churn for a telecommunications company. Customer churn in this context refers to clients ceasing to use the company's products or services. By identifying churn drivers and predicting churn, this project provides insights to help the company retain valuable customers and increase loyalty, directly contributing to revenue.
 
 Project Overview
